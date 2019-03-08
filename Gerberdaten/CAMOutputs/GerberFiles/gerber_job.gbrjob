@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-03-08T13:42:41Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "wechselblinkerschaltung"
+        },
+        "Owner": "Eagle Tester <eagle@modulo13.de>",
+        "Size": {
+            "X": 25.0954,
+            "Y": 25.0344
+        }
+    }
+}

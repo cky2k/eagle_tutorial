@@ -1,0 +1,17 @@
+Beschreibung der Dateien:
+
+copper_bottom:      Lötseite (BOT)
+copper_top:	    Bestückungsseite (TOP)
+profile:            Platinenrand
+silkscreen_bottom:  Bestückungsdruck (BOT)
+silkscreen_top:     Bestückungsdruck (TOP)
+soldermask_bottom:  Lötstopmaske (BOT)
+soldermask_top:     Lötstopmaske (TOP)
+solderpaste_bottom: Lotpastenmaske (BOT)
+solderpaste_top:    Lotpastenmaske (TOP)
+drills.xln:         Bohrkoordinaten und Bohrertabelle
+
+Falls etwas nicht passt, kontaktieren Sie mich bitte:
+
+Email: a@abc.de
+Tel.: 0123456789
